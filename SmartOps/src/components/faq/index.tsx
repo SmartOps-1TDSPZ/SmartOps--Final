@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import "./styles.css";
 import IconChevronUp from "../../assets/IconChevronUp.svg";
+import "./styles.module.css";
 
 interface FAQItem {
   question: string;

@@ -15,5 +15,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["**/*.ts", "**/*.tsx", "./next.config.ts"]
+  "include": ["**/*.ts", "**/*.tsx", "./next.config.ts", "**/*.jsx"]
 }

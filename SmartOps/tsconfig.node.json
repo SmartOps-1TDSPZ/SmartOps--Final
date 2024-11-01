@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "jsx": "react",
     "composite": true,
     "emitDeclarationOnly": true,
     "target": "ES2022",
@@ -15,5 +16,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["**/*.ts", "**/*.tsx", "./next.config.ts"]
+  "include": ["**/*.ts", "**/*.tsx", "./next.config.ts", "**/*.tsx"]
 }

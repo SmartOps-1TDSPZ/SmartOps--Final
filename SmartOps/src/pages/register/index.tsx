@@ -1,11 +1,11 @@
 import "./styles.css";
 
-import Ellipse from "../../assets/Ellipse 5.svg";
-import Logo from "../../assets/Logo-white-LadingPage.svg";
-import Car from "../../assets/car.svg";
-import Google from "../../assets/IconGoogle.svg";
-import Facebook from "../../assets/IconFacebook.svg";
 import { Link } from "react-router-dom";
+import Car from "../../assets/car.svg";
+import Ellipse from "../../assets/Ellipse 5.svg";
+import Facebook from "../../assets/IconFacebook.svg";
+import Google from "../../assets/IconGoogle.svg";
+import Logo from "../../assets/Logo-white-LadingPage.svg";
 
 const Register: React.FC = () => {
   return (
