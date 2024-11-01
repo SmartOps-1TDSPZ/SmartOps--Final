@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "composite": true,
-    "emitDeclarationOnly": true, // Em vez de noEmit
+    "emitDeclarationOnly": true,
     "target": "ES2022",
     "lib": ["ES2023"],
     "module": "ESNext",
